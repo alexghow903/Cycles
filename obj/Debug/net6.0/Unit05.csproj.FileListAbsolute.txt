@@ -1,0 +1,42 @@
+E:\Users\alexa\Downloads\cse210-student-articulate-csharp-complete-main (1)\cse210-student-articulate-csharp-complete-main\Unit05\bin\Debug\net6.0\Unit05.exe
+E:\Users\alexa\Downloads\cse210-student-articulate-csharp-complete-main (1)\cse210-student-articulate-csharp-complete-main\Unit05\bin\Debug\net6.0\Unit05.deps.json
+E:\Users\alexa\Downloads\cse210-student-articulate-csharp-complete-main (1)\cse210-student-articulate-csharp-complete-main\Unit05\bin\Debug\net6.0\Unit05.runtimeconfig.json
+E:\Users\alexa\Downloads\cse210-student-articulate-csharp-complete-main (1)\cse210-student-articulate-csharp-complete-main\Unit05\bin\Debug\net6.0\Unit05.dll
+E:\Users\alexa\Downloads\cse210-student-articulate-csharp-complete-main (1)\cse210-student-articulate-csharp-complete-main\Unit05\bin\Debug\net6.0\Unit05.pdb
+E:\Users\alexa\Downloads\cse210-student-articulate-csharp-complete-main (1)\cse210-student-articulate-csharp-complete-main\Unit05\bin\Debug\net6.0\Raylib-cs.dll
+E:\Users\alexa\Downloads\cse210-student-articulate-csharp-complete-main (1)\cse210-student-articulate-csharp-complete-main\Unit05\bin\Debug\net6.0\runtimes\linux-x64\native\libraylib.so
+E:\Users\alexa\Downloads\cse210-student-articulate-csharp-complete-main (1)\cse210-student-articulate-csharp-complete-main\Unit05\bin\Debug\net6.0\runtimes\osx-x64\native\libraylib.dylib
+E:\Users\alexa\Downloads\cse210-student-articulate-csharp-complete-main (1)\cse210-student-articulate-csharp-complete-main\Unit05\bin\Debug\net6.0\runtimes\win-x64\native\raylib.dll
+E:\Users\alexa\Downloads\cse210-student-articulate-csharp-complete-main (1)\cse210-student-articulate-csharp-complete-main\Unit05\bin\Debug\net6.0\runtimes\win-x86\native\raylib.dll
+E:\Users\alexa\Downloads\cse210-student-articulate-csharp-complete-main (1)\cse210-student-articulate-csharp-complete-main\Unit05\obj\Debug\net6.0\Unit05.csproj.AssemblyReference.cache
+E:\Users\alexa\Downloads\cse210-student-articulate-csharp-complete-main (1)\cse210-student-articulate-csharp-complete-main\Unit05\obj\Debug\net6.0\Unit05.GeneratedMSBuildEditorConfig.editorconfig
+E:\Users\alexa\Downloads\cse210-student-articulate-csharp-complete-main (1)\cse210-student-articulate-csharp-complete-main\Unit05\obj\Debug\net6.0\Unit05.AssemblyInfoInputs.cache
+E:\Users\alexa\Downloads\cse210-student-articulate-csharp-complete-main (1)\cse210-student-articulate-csharp-complete-main\Unit05\obj\Debug\net6.0\Unit05.AssemblyInfo.cs
+E:\Users\alexa\Downloads\cse210-student-articulate-csharp-complete-main (1)\cse210-student-articulate-csharp-complete-main\Unit05\obj\Debug\net6.0\Unit05.csproj.CoreCompileInputs.cache
+E:\Users\alexa\Downloads\cse210-student-articulate-csharp-complete-main (1)\cse210-student-articulate-csharp-complete-main\Unit05\obj\Debug\net6.0\Unit05.csproj.CopyComplete
+E:\Users\alexa\Downloads\cse210-student-articulate-csharp-complete-main (1)\cse210-student-articulate-csharp-complete-main\Unit05\obj\Debug\net6.0\Unit05.dll
+E:\Users\alexa\Downloads\cse210-student-articulate-csharp-complete-main (1)\cse210-student-articulate-csharp-complete-main\Unit05\obj\Debug\net6.0\refint\Unit05.dll
+E:\Users\alexa\Downloads\cse210-student-articulate-csharp-complete-main (1)\cse210-student-articulate-csharp-complete-main\Unit05\obj\Debug\net6.0\Unit05.pdb
+E:\Users\alexa\Downloads\cse210-student-articulate-csharp-complete-main (1)\cse210-student-articulate-csharp-complete-main\Unit05\obj\Debug\net6.0\Unit05.genruntimeconfig.cache
+E:\Users\alexa\Downloads\cse210-student-articulate-csharp-complete-main (1)\cse210-student-articulate-csharp-complete-main\Unit05\obj\Debug\net6.0\ref\Unit05.dll
+C:\Users\alexa\Dropbox\Unit05\bin\Debug\net6.0\Unit05.exe
+C:\Users\alexa\Dropbox\Unit05\bin\Debug\net6.0\Unit05.deps.json
+C:\Users\alexa\Dropbox\Unit05\bin\Debug\net6.0\Unit05.runtimeconfig.json
+C:\Users\alexa\Dropbox\Unit05\bin\Debug\net6.0\Unit05.dll
+C:\Users\alexa\Dropbox\Unit05\bin\Debug\net6.0\ref\Unit05.dll
+C:\Users\alexa\Dropbox\Unit05\bin\Debug\net6.0\Unit05.pdb
+C:\Users\alexa\Dropbox\Unit05\bin\Debug\net6.0\Raylib-cs.dll
+C:\Users\alexa\Dropbox\Unit05\bin\Debug\net6.0\runtimes\linux-x64\native\libraylib.so
+C:\Users\alexa\Dropbox\Unit05\bin\Debug\net6.0\runtimes\osx-x64\native\libraylib.dylib
+C:\Users\alexa\Dropbox\Unit05\bin\Debug\net6.0\runtimes\win-x64\native\raylib.dll
+C:\Users\alexa\Dropbox\Unit05\bin\Debug\net6.0\runtimes\win-x86\native\raylib.dll
+C:\Users\alexa\Dropbox\Unit05\obj\Debug\net6.0\Unit05.csproj.AssemblyReference.cache
+C:\Users\alexa\Dropbox\Unit05\obj\Debug\net6.0\Unit05.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alexa\Dropbox\Unit05\obj\Debug\net6.0\Unit05.AssemblyInfoInputs.cache
+C:\Users\alexa\Dropbox\Unit05\obj\Debug\net6.0\Unit05.AssemblyInfo.cs
+C:\Users\alexa\Dropbox\Unit05\obj\Debug\net6.0\Unit05.csproj.CoreCompileInputs.cache
+C:\Users\alexa\Dropbox\Unit05\obj\Debug\net6.0\Unit05.csproj.CopyComplete
+C:\Users\alexa\Dropbox\Unit05\obj\Debug\net6.0\Unit05.dll
+C:\Users\alexa\Dropbox\Unit05\obj\Debug\net6.0\ref\Unit05.dll
+C:\Users\alexa\Dropbox\Unit05\obj\Debug\net6.0\Unit05.pdb
+C:\Users\alexa\Dropbox\Unit05\obj\Debug\net6.0\Unit05.genruntimeconfig.cache

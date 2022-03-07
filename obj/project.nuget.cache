@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "DnPGJkyJygKKHMzam9mYcOKACtZHZPyz7yIQb68pVCfXMBAImbSSv+FJ8rUMA7o3/pqv9XHLeCLXy7d1I6Ewhg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\alexa\\Dropbox\\Unit05\\Unit05.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\alexa\\.nuget\\packages\\raylib-cs\\3.7.0.1\\raylib-cs.3.7.0.1.nupkg.sha512",
+    "C:\\Users\\alexa\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512"
+  ],
+  "logs": []
+}
